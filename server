@@ -1,28 +1,28 @@
-https://www.curseforge.com/minecraft/mc-mods/create/download/3934676/file
+wget https://mediafiles.forgecdn.net/files/3934/676/create-1.18.2-0.5.0.d.jar
 
-https://www.curseforge.com/minecraft/mc-mods/chipped/download/3748664/file
+wget https://mediafiles.forgecdn.net/files/3748/664/chipped-1.18.2-1.2.1-forge.jar
 
-https://www.curseforge.com/minecraft/mc-mods/supplementaries/download/3947959/file
-https://www.curseforge.com/minecraft/mc-mods/selene/download/3842421/file
+wget https://mediafiles.forgecdn.net/files/3947/959/supplementaries-1.18.2-1.4.12.jar
+wget https://mediafiles.forgecdn.net/files/3842/421/selene-1.18.2-1.17.9.jar
 
-https://www.curseforge.com/minecraft/mc-mods/tetra/download/3844400/file
-https://www.curseforge.com/minecraft/mc-mods/mutil/download/3788376/file
+wget https://mediafiles.forgecdn.net/files/3844/400/tetra-1.18.2-4.9.3.jar
+wget https://mediafiles.forgecdn.net/files/3788/376/mutil-1.18.2-4.5.0.jar
 
-https://www.curseforge.com/minecraft/mc-mods/quark/download/3840125/file
-https://www.curseforge.com/minecraft/mc-mods/akashic-tome/download/3740180/file
-https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/3642382/file
+wget https://mediafiles.forgecdn.net/files/3840/125/Quark-3.2-358.jar
+wget https://mediafiles.forgecdn.net/files/3740/180/AkashicTome-1.5-20.jar
+wget https://mediafiles.forgecdn.net/files/3642/382/AutoRegLib-1.7-53.jar
 
-https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures/download/3708292/file
-https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus/download/3906364/file
-https://www.curseforge.com/minecraft/mc-mods/valhelsia-core/download/3886212/file
+wget https://mediafiles.forgecdn.net/files/3708/292/valhelsia_structures-forge-1.18.2-0.1.0.jar
+wget https://mediafiles.forgecdn.net/files/3906/364/forbidden_arcanus-1.18.2-2.1.0-beta3.jar
+wget https://mediafiles.forgecdn.net/files/3886/212/valhelsia_core-forge-1.18.2-0.4.0.jar
 
-https://www.curseforge.com/minecraft/mc-mods/refined-storage/download/3583676/file
+wget https://mediafiles.forgecdn.net/files/3583/676/refinedstorage-1.10.0-beta.4.jar
 
-https://www.curseforge.com/minecraft/mc-mods/architects-palette/download/3815327/file
+wget https://mediafiles.forgecdn.net/files/3815/327/Architects-Palette-1.18.2-1.2.0.jar
 
-https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/download/3964014
+wget https://mediafiles.forgecdn.net/files/3964/14/ImmersiveEngineering-1.18.2-8.2.2-154.jar
 
-https://www.curseforge.com/minecraft/mc-mods/hexcasting/download/3958161/file
-https://www.curseforge.com/minecraft/mc-mods/paucal/download/3831430/file
-https://www.curseforge.com/minecraft/mc-mods/patchouli/download/3846086/file
-https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/download/3925887/file
+wget https://mediafiles.forgecdn.net/files/3958/161/hexcasting-forge-1.18.2-0.9.3.jar
+wget https://mediafiles.forgecdn.net/files/3831/430/paucal-forge-1.18.2-0.4.7.jar
+wget https://mediafiles.forgecdn.net/files/3846/86/Patchouli-1.18.2-71.1.jar
+wget https://mediafiles.forgecdn.net/files/3925/887/kotlinforforge-3.7.1-obf.jar
